@@ -1,6 +1,7 @@
 # Presentaion video
 This is my personnal repository forking [my team's repository](https://github.com/Acsts/DeepChef_App). 
-(Presentation video)[https://share.vidyard.com/watch/iEShiMH4Vbj2zZemR3mGpu?]
+
+[Presentation video](https://share.vidyard.com/watch/iEShiMH4Vbj2zZemR3mGpu?)
 # Deep chef app
 
 Deep chef is an online app that helps you find the recipe you need. Take a picture of you fruits and vegetables, the app will recognize it and suggest different recipes. 
